@@ -1,4 +1,6 @@
-package com.example.digitalmenu.food;
+package com.example.digitalmenu.dto;
+
+import com.example.digitalmenu.model.Food;
 
 public record FoodResponseDTO(Long id, String title, String image, Integer price) {
 

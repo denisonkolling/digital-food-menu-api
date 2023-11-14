@@ -1,4 +1,5 @@
-package com.example.digitalmenu.food;
+package com.example.digitalmenu.model;
+import com.example.digitalmenu.dto.FoodRequestDTO;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.EqualsAndHashCode;
